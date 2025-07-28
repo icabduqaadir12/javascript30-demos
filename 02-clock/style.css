@@ -1,0 +1,117 @@
+html {
+    background: #018DED url(https://i.pinimg.com/1200x/fd/75/97/fd75973515edc17092f67638e40ddfbd.jpg) no-repeat center;
+    background-size: cover;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 10px;
+    text-align: center;
+    }
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+#digital-time {
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 800;
+    text-shadow: 1px 1px 4px #000;
+    margin-top: 1rem;
+}
+
+.day {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 700;
+    text-shadow: 1px 1px 4px #000;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    width: 50px;
+    padding: 5px;
+    margin: auto;
+}
+
+.clock {
+    background-color: white;
+    width: 30rem;
+    height: 30rem;
+    border: 20px solid white;
+    border-radius: 50%;
+    position: relative;
+    padding: 2rem;
+    box-shadow:
+        0 0 0 4px rgba(0,0,0,0.1),
+        inset 0 0 0 3px #EFEFEF,
+        inset 0 0 10px black,
+        0 0 10px rgba(0,0,0,0.2);
+}
+
+.clock-face {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform: translateY(-3px);
+}
+
+.hand {
+    width: 50%;
+    height: 6px;
+    position: absolute;
+    top: 50%;
+    background: black;
+    transform-origin: 100%;
+    transform: rotate(90deg);
+    transition: all 0.05s;
+    transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+}
+
+.min-hand,
+.second-hand,
+.hour-hand {
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+
+.second-hand {
+    height: 4px;
+    background-color: red;
+}
+
+.number {
+    position: absolute;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+    transform: translate(-50%, -50%);
+}
+
+.twelve {
+    top: 8%;
+    left: 50%;
+}
+
+.three {
+    top: 50%;
+    left: 92%;
+}
+
+.six {
+    top: 92%;
+    left: 50%;
+}
+
+.nine {
+    top: 50%;
+    left: 8%;
+}
