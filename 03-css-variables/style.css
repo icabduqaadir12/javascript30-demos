@@ -1,0 +1,44 @@
+:root {
+    --base: #ffc600;
+    --spacing: 10px;
+    --blur: 10px;
+}
+
+img {
+    background-color: var(--base);
+    padding: var(--spacing);
+    filter: blur(var(--blur));
+}
+
+.h1 {
+    color: var(--base);
+}
+
+body {
+    text-align: center;
+    background-color: #193549;
+    color: #fff;
+    font-family: 'helvetica neue', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.controls {
+    margin-bottom: 50px;
+}
+
+input {
+    width: 100px;
+}
+
+label {
+    position: relative;
+}
+
+label span {
+    position: absolute;
+    font-size: 9px;
+    color: rgb(23, 9, 116);
+    right: 20px;
+    top: 33px;
+}

@@ -15,18 +15,18 @@ This repository contains my personal solutions to the [JavaScript30](https://jav
 
 ## 📅 Projects Table
 
-| Day | Project   | Demo Link                                                                 |
-|-----|-----------|---------------------------------------------------------------------------|
-| 01  | Drum Kit  | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/01-drum-kit/) |
-| 02  | Clock     | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/02-clock/)    |
-| 03  | Coming Soon | ⏳ |
-| ... | ...       | Coming soon...                                                            |
+| Day | Project             | Demo Link                                                                     |
+|-----|---------------------|--------------------------------------------------------------------------------|
+| 01  | Drum Kit            | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/01-drum-kit/) |
+| 02  | Clock               | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/02-clock/)    |
+| 03  | CSS Variables       | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/03-css-variables/) |
+| ... | ...                 | Coming soon...                                                                |
 
 ---
 
 ## 📁 Files Included
 
-Most projects contain:
+Each project typically includes:
 
 - `index.html` – HTML structure
 - `style.css` – CSS styles
@@ -34,16 +34,16 @@ Most projects contain:
 - `screenshot.png` – Preview image
 - `README.md` – Project description
 
-Some projects may include additional folders based on complexity.
+Some projects may include additional folders depending on complexity.
 
 ---
 
 ## 📌 Status
 
-- ✅ Completed: Day 1, Day 2  
-- 🔄 In Progress: Day 3  
-- 🎯 Goal: Complete all 30 projects by **August 31, 2025** (1 project/day, no coding on Thursdays & Fridays)  **as i think...**
-
+- ✅ Completed: Day 1, Day 2, Day 3  
+- 🔄 In Progress: Day 4  
+- 🎯 Goal: Complete all 30 projects by **August 31, 2025**  
+  _(Skipping Thursdays & Fridays as planned)_
 
 ---
 
