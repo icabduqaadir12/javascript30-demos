@@ -1,67 +1,75 @@
 # JavaScript30 – My Solutions & Live Demos 🚀
 
-This repository contains my personal solutions to the [JavaScript30](https://javascript30.com) challenge by [Wes Bos](https://wesbos.com). I'm completing all 30 **vanilla JavaScript** projects and enhancing them with better design, interactivity, and responsiveness.
+Welcome! This repository contains my personal solutions to the [JavaScript30](https://javascript30.com) challenge by [Wes Bos](https://wesbos.com). I'm completing all 30 **vanilla JavaScript** projects, while enhancing them with clean design, better interactivity, and responsiveness.
 
 🛠️ Each project is deployed live using **GitHub Pages**.
 
 ---
 
-## 🌐 Live Site
+## 🌐 Live Portfolio Site
 
-📍 View all projects here:  
-**[https://icabduqaadir12.github.io/javascript30-demos/](https://icabduqaadir12.github.io/javascript30-demos/)**
+📍 View all project demos in one place:  
+🔗 **[https://icabduqaadir12.github.io/javascript30-demos/](https://icabduqaadir12.github.io/javascript30-demos/)**
 
 ---
 
-## 📅 Projects Table
+## 📅 Project Progress
 
-| Day | Project             | Demo Link                                                                     |
-|-----|---------------------|--------------------------------------------------------------------------------|
+| Day | Project Title       | Live Demo Link                                                                 |
+|-----|---------------------|-------------------------------------------------------------------------------|
 | 01  | Drum Kit            | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/01-drum-kit/) |
-| 02  | Clock               | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/02-clock/)    |
+| 02  | JavaScript Clock    | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/02-clock/)    |
 | 03  | CSS Variables       | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/03-css-variables/) |
-| ... | ...                 | Coming soon...                                                                |
+| 04  | Array Cardio Day 1  | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/04-array-cardio-1/) |
+| ... | Coming Soon         | Stay tuned for more...                                                        |
 
 ---
 
-## 📁 Files Included
+## 📁 Project Structure
 
-Each project typically includes:
+Each project folder typically contains:
 
-- `index.html` – HTML structure
-- `style.css` – CSS styles
-- `script.js` – JavaScript functionality
-- `screenshot.png` – Preview image
-- `README.md` – Project description
+- `index.html` – HTML structure  
+- `style.css` – CSS styles  
+- `script.js` – JavaScript logic  
+- `screenshot.png` – Visual preview  
+- `README.md` – Project-specific documentation  
 
-Some projects may include additional folders depending on complexity.
+Additional assets or subfolders may be included for certain projects.
 
 ---
 
-## 📌 Status
+## 🚧 Current Status
 
-- ✅ Completed: Day 1, Day 2, Day 3  
-- 🔄 In Progress: Day 4  
+- ✅ Completed: Day 1 to Day 4  
+- 🔄 In Progress: Day 5  
 - 🎯 Goal: Complete all 30 projects by **August 31, 2025**  
   _(Skipping Thursdays & Fridays as planned)_
 
 ---
 
-## 🏷️ Topics
+## 🏷️ Topics Covered
 
-This repository is tagged with:
+This repository focuses on the following topics:
 
-- `javascript`
-- `vanilla-js`
-- `javascript30`
-- `web-development`
-- `html`
-- `css`
-- `projects`
+- `javascript`  
+- `vanilla-js`  
+- `array-methods`  
+- `dom-manipulation`  
+- `html`, `css`, `web-development`  
+- `creative-coding`  
+- `interactive-ui`
 
 ---
 
-## ✍️ License
+## 📖 License
 
-Original challenge code © [Wes Bos](https://wesbos.com) — used under course license.  
-My customizations, styles, and enhancements are released under the **MIT License**.
+Original challenge code © [Wes Bos](https://wesbos.com) — used under the terms of the JavaScript30 course license.  
+All enhancements, designs, and documentation by **Abdukadir Ibrahim** are released under the **MIT License**.
+
+---
+
+## 🙌 Acknowledgments
+
+Thanks to [Wes Bos](https://wesbos.com) for the excellent course, and to the open-source community for continued inspiration.
+
