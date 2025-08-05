@@ -15,13 +15,14 @@ Welcome! This repository contains my personal solutions to the [JavaScript30](ht
 
 ## 📅 Project Progress
 
-| Day | Project Title       | Live Demo Link                                                                 |
-|-----|---------------------|-------------------------------------------------------------------------------|
-| 01  | Drum Kit            | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/01-drum-kit/) |
-| 02  | JavaScript Clock    | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/02-clock/)    |
-| 03  | CSS Variables       | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/03-css-variables/) |
-| 04  | Array Cardio Day 1  | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/04-array-cardio-1/) |
-| ... | Coming Soon         | Stay tuned for more...                                                        |
+| Day | Project Title         | Live Demo Link                                                                 |
+|-----|-----------------------|-------------------------------------------------------------------------------|
+| 01  | Drum Kit              | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/01-drum-kit/) |
+| 02  | JavaScript Clock      | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/02-clock/)    |
+| 03  | CSS Variables         | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/03-css-variables/) |
+| 04  | Array Cardio Day 1    | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/04-array-cardio-1/) |
+| 05  | Flex Panel Gallery    | [Live Demo](https://icabduqaadir12.github.io/javascript30-demos/05-flex-panel-gallery/) |
+| ... | Coming Soon           | Stay tuned for more...                                                        |
 
 ---
 
@@ -41,8 +42,8 @@ Additional assets or subfolders may be included for certain projects.
 
 ## 🚧 Current Status
 
-- ✅ Completed: Day 1 to Day 4  
-- 🔄 In Progress: Day 5  
+- ✅ Completed: Day 1 to Day 5  
+- 🔄 In Progress: Day 6  
 - 🎯 Goal: Complete all 30 projects by **August 31, 2025**  
   _(Skipping Thursdays & Fridays as planned)_
 
@@ -72,4 +73,3 @@ All enhancements, designs, and documentation by **Abdukadir Ibrahim** are releas
 ## 🙌 Acknowledgments
 
 Thanks to [Wes Bos](https://wesbos.com) for the excellent course, and to the open-source community for continued inspiration.
-
